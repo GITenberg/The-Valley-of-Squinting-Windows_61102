@@ -1,11 +1,16 @@
 _repo: The-Valley-of-Squinting-Windows_61102
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61102-h/images/cover.jpg
 creator:
   author:
     agent_name: MacNamara, Brinsley
     gutenberg_agent_id: '51256'
     url: http://www.gutenberg.org/2009/agents/51256
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61102#The-Valley-of-Squinting-Windows
 gutenberg_issued: '2020-01-04'
 gutenberg_type: Text
 identifiers:
